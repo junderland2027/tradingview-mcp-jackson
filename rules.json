@@ -1,5 +1,5 @@
 {
-  "watchlist": ["BTCUSDT", "SOLUSDT", "SUIUSDC", "GRTUSDT", "VIRTUALUSDT", "LINKUSDT", "PYTHUSDT", "SLB", "EQNR"],
+  "watchlist": ["BTCUSDT", "SOLUSDT", "SUIUSDC", "GRTUSDT", "VIRTUALUSDT", "LINKUSDT", "PYTHUSDT", "SLB", "EQNR", "SEIUSDT"],
   "default_timeframe": "240",
 
   "btc_filter": {
